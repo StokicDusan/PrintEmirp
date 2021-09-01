@@ -23,9 +23,9 @@ This script require the math, sys and doctest package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/Python-misc.git
-$> cd Python-misc/PrintEmirp/
+```bash
+$> git clone https://github.com/StokicDusan/PrintEmirp.git
+$> cd PrintEmirp/
 ```
 #### 2. Launch
 In the command line simply invoke the script with one argument:
