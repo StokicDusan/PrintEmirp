@@ -9,10 +9,10 @@ The script prints emirp prime numbers on the command line.
 This script is ready to use script which uses one argument to run. The argument is the integer passed for the upper bound of numbers to be 
 checked if they are emirp numbers.
 
-### print_emirp:
+### print_emirp function:
 Function prints numbers divided by a space character.  
 Invoking the script runs this function.
-### print_emirp_count:
+### print_emirp_count function:
 Function prints numbers divided by a space character and a count of how 
 many numbers it printed in the new line.  
 
