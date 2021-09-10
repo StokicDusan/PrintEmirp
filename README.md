@@ -1,6 +1,6 @@
 # Print Emirp
 
-An emirp is a prime number that results in a different prime when its decimal digits are reversed. 
+An emirp is a prime number that results in a different prime when its decimal digits are reversed.
 
 ## What does the script do?
 The script prints emirp prime numbers on the command line.
@@ -11,10 +11,11 @@ checked if they are emirp numbers.
 
 ### print_emirp function:
 Function prints numbers divided by a space character.  
-Invoking the script runs this function.
+Invoking the script runs this function.  
+
 ### print_emirp_count function:
 Function prints numbers divided by a space character and a count of how 
-many numbers it printed in the new line.  
+many numbers it printed in the new line.
 
 ## Installing the dependencies
 
