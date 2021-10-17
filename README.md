@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Commit-activity][commit-activity-shield]][commit-activity-url]
+[![Issues][issues-shield]][issues-url]
+[![Repo-size][repo-size-shield]][repo-size-url]
+[![License][license-shield]][license-url]  
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Welcome to PrintEmirp
 
 An emirp is a prime number that results in a different prime when its decimal digits are reversed.
@@ -58,3 +66,18 @@ $ python3 printEmirp.py 1000
 If you encounter any bugs or have suggestions, please file an issue in the
 [Issues][issues-url]
 section of the project.
+
+[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/PrintEmirp
+[contributors-url]: https://github.com/StokicDusan/PrintEmirp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StokicDusan/PrintEmirp?style=social
+[forks-url]: https://github.com/StokicDusan/PrintEmirp/network/members
+[issues-shield]: https://img.shields.io/github/issues/StokicDusan/PrintEmirp
+[issues-url]: https://github.com/StokicDusan/PrintEmirp/issues
+[commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/PrintEmirp
+[commit-activity-url]: https://github.com/StokicDusan/PrintEmirp/graphs/commit-activity
+[license-url]: https://github.com/StokicDusan/PrintEmirp/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/StokicDusan/PrintEmirp
+[repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/PrintEmirp
+[repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/PrintEmirp
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/stokicdusan
