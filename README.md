@@ -40,3 +40,18 @@ Any positive integer
 
 
 Invoking the script with no arguments will run testmod().
+
+## Examples
+
+The following code block shows examples of calling the printEmirp script from terminal.
+
+```bash
+$ python3 printEmirp.py 7
+
+$ python3 printEmirp.py 100
+13 17 31 37 71 73 79 97 
+
+$ python3 printEmirp.py 1000
+13 17 31 37 71 73 79 97 107 113 149 157 167 179 199 311 337 347 359 389 701 709 733 739 743 751 761 769 907 937 941 953 967 971 983 991 
+
+```
